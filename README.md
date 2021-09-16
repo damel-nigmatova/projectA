@@ -11,6 +11,6 @@ Markdown Images
 ==================
 
 Reference Style
-[cat]:  "cat picture"
+[cat]: cat.jpg "cat picture"
 Inline Style
-![Cat Image](" Cat Picture"
+![Cat Image]("cat.jpg Cat Picture")
