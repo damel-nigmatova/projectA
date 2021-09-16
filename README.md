@@ -12,7 +12,7 @@ Markdown Images
 
 Reference Style
 ![cat image][cat]
-[cat]: https://github.com/damel-nigmatova/projectA/blob/main/cat.jpg "Cat Picture:
+[cat]: https://github.com/damel-nigmatova/projectA/blob/main/cat.jpg "Cat Picture:"
 
 Inline Style
 ![Cat Image](https://github.com/damel-nigmatova/projectA/blob/main/cat.jpg "Cat Picture")
