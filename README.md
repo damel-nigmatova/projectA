@@ -5,3 +5,12 @@ another message
 #### Paragraph 1
 #### Paragraph 2
 End of the file
+
+
+Markdown Images
+==================
+
+Reference Style
+[cat]:  "cat picture"
+Inline Style
+![Cat Image](" Cat Picture"
